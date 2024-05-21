@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this work as Li et al. (2022)"
+title: "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+authors:
+  - family-names: Li
+    given-names: Junnan
+  - family-names: Li
+    given-names: Dongxu
+  - family-names: Xiong
+    given-names: Caiming
+  - family-names: Hoi
+    given-names: Steven
+date-released: 2022
+doi: 10.48550/ARXIV.2201.12086
+url: https://arxiv.org/abs/2201.12086
+license: "CC BY 4.0"
+publisher: arXiv
